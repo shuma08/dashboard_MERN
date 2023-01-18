@@ -13,5 +13,5 @@ and make npm install => npm start
 
 Also U can see this project in:
 
-https://dashboard-mern-frontend.onrender.com/dashboard
+https://dashboard-mern-frontend.onrender.com/
 
